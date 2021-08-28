@@ -1,3 +1,3 @@
 # MathChallenge
 
-lien : https://CodeElhajji.github.io/MathChallenge/.
+lien : https://aelhajji.github.io/MathChallenge/.
